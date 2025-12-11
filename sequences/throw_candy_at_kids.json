@@ -1,0 +1,139 @@
+{
+  "name": "throw_candy_at_kids",
+  "recorded_at": "2025-07-24 07:49:01",
+  "total_positions": 11,
+  "sequence": [
+    {
+      "position": 1,
+      "positions": {
+        "shoulder_pan": 1957,
+        "shoulder_lift": 2049,
+        "elbow_flex": 2059,
+        "wrist_flex": 2051,
+        "wrist_roll": 1952,
+        "gripper": 2049
+      },
+      "duration": 0.0
+    },
+    {
+      "position": 2,
+      "positions": {
+        "shoulder_pan": 1953,
+        "shoulder_lift": 3107,
+        "elbow_flex": 141,
+        "wrist_flex": 1210,
+        "wrist_roll": 1949,
+        "gripper": 2050
+      },
+      "duration": 1.0
+    },
+    {
+      "position": 3,
+      "positions": {
+        "shoulder_pan": 2862,
+        "shoulder_lift": 2976,
+        "elbow_flex": 905,
+        "wrist_flex": 2314,
+        "wrist_roll": 1996,
+        "gripper": 2725
+      },
+      "duration": 1.0
+    },
+    {
+      "position": 4,
+      "positions": {
+        "shoulder_pan": 2850,
+        "shoulder_lift": 3469,
+        "elbow_flex": 904,
+        "wrist_flex": 2248,
+        "wrist_roll": 1990,
+        "gripper": 2724
+      },
+      "duration": 1.0
+    },
+    {
+      "position": 5,
+      "positions": {
+        "shoulder_pan": 2826,
+        "shoulder_lift": 3503,
+        "elbow_flex": 893,
+        "wrist_flex": 2126,
+        "wrist_roll": 1990,
+        "gripper": 2043
+      },
+      "duration": 1.0
+    },
+    {
+      "position": 6,
+      "positions": {
+        "shoulder_pan": 2730,
+        "shoulder_lift": 2731,
+        "elbow_flex": 496,
+        "wrist_flex": 2127,
+        "wrist_roll": 1998,
+        "gripper": 2043
+      },
+      "duration": 1.0
+    },
+    {
+      "position": 7,
+      "positions": {
+        "shoulder_pan": 1923,
+        "shoulder_lift": 2052,
+        "elbow_flex": -77,
+        "wrist_flex": 1175,
+        "wrist_roll": 1990,
+        "gripper": 2038
+      },
+      "duration": 1.0
+    },
+    {
+      "position": 8,
+      "positions": {
+        "shoulder_pan": 1928,
+        "shoulder_lift": 3051,
+        "elbow_flex": 309,
+        "wrist_flex": 950,
+        "wrist_roll": 1998,
+        "gripper": 2042
+      },
+      "duration": 0.0
+    },
+    {
+      "position": 9,
+      "positions": {
+        "shoulder_pan": 1909,
+        "shoulder_lift": 3445,
+        "elbow_flex": 427,
+        "wrist_flex": 2069,
+        "wrist_roll": 1961,
+        "gripper": 3049
+      },
+      "duration": 0.0
+    },
+    {
+      "position": 10,
+      "positions": {
+        "shoulder_pan": 1953,
+        "shoulder_lift": 3526,
+        "elbow_flex": 719,
+        "wrist_flex": 1402,
+        "wrist_roll": 1958,
+        "gripper": 2042
+      },
+      "duration": 1.0
+    },
+    {
+      "position": 11,
+      "positions": {
+        "shoulder_pan": 1954,
+        "shoulder_lift": 2179,
+        "elbow_flex": 2033,
+        "wrist_flex": 2018,
+        "wrist_roll": 1957,
+        "gripper": 2042
+      },
+      "duration": 1.0
+    }
+  ]
+}
